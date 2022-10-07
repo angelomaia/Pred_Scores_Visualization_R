@@ -2,7 +2,7 @@
 
 This is a complementary Script for generating a simple visualization for the prediction scores from my previous [Script](https://github.com/angelomaia/NIR_RF_Prediction_R), as you can see in the image below.
 
-In this case the RPIQ has been used as the indicator of prediction performance because we are dealing with the prediction of elemental concentrations from infrared spectra, and the RPIQ is the current most trustworthy parameter to evaluate the results.
+In this case the RPIQ has been used as the indicator of prediction performance because we are dealing with the prediction of elemental concentrations from infrared spectral data, and the RPIQ is the current most trustworthy parameter to evaluate the results.
 
 I provide here a step-by-step code, including examples such as the models and test datasets generated in the previous [Script](https://github.com/angelomaia/NIR_RF_Prediction_R), so you can try it out by yourself.
 
