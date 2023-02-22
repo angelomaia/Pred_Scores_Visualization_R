@@ -10,4 +10,6 @@ Any other statistical parameter generated in the models evaluation could be used
 
 ![alt text](https://github.com/angelomaia/Pred_Scores_Visualization_R/blob/master/RPIQ_scores.jpeg)
 
+```
 Feel free to use my code, contribute in any away or send me your feedbacks!!
+```
